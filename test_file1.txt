@@ -1,1 +1,2 @@
 Hello this is first git program.
+THis is first update for test branch 2.
